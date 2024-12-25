@@ -1,4 +1,3 @@
-# Phishing-com-o-Kali-Linux
 
 # Phishing-com-Kali-Linux
 
